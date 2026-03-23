@@ -35,7 +35,7 @@ export default function HomePage() {
               Visual Artist &bull; Cultural Practitioner
             </p>
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-light tracking-wide mb-6">
-              The Chungaimna
+              The Chungaiman
             </h1>
             <p className="text-neutral-400 text-sm md:text-base max-w-md mx-auto leading-relaxed mb-10">
               Capturing stories through light, movement, and culture.

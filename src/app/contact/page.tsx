@@ -19,10 +19,10 @@ export default function ContactPage() {
             For inquiries, collaborations, or bookings:
           </p>
           <a
-            href="mailto:hello@thechungaimna.com"
+            href="mailto:hello@thechungaiman.com"
             className="inline-block border border-white/20 text-white text-xs tracking-[0.2em] uppercase px-8 py-4 hover:bg-white hover:text-black transition-all duration-500"
           >
-            hello@thechungaimna.com
+            hello@thechungaiman.com
           </a>
         </FadeIn>
 

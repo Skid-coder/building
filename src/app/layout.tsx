@@ -4,9 +4,9 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "The Chungaimna — Visual Artist & Cultural Practitioner",
+  title: "The Chungaiman — Visual Artist & Cultural Practitioner",
   description:
-    "Portfolio of The Chungaimna — visual artist, photographer, videographer, and creative director based in North Nigeria.",
+    "Portfolio of The Chungaiman — visual artist, photographer, videographer, and creative director based in North Nigeria.",
   keywords: ["photography", "videography", "creative direction", "Nigeria", "visual artist"],
 };
 

@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const item = getPortfolioItem(id);
   if (!item) return { title: "Project Not Found" };
   return {
-    title: `${item.title} — The Chungaimna`,
+    title: `${item.title} — The Chungaiman`,
     description: item.description,
   };
 }

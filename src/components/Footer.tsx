@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-sm tracking-[0.3em] uppercase text-white mb-4">
-              The Chungaimna
+              The Chungaiman
             </h3>
             <p className="text-neutral-500 text-sm leading-relaxed">
               Visual artist &amp; cultural practitioner
@@ -38,17 +38,17 @@ export default function Footer() {
               Connect
             </h4>
             <a
-              href="mailto:hello@thechungaimna.com"
+              href="mailto:hello@thechungaiman.com"
               className="text-neutral-500 text-sm hover:text-white transition-colors"
             >
-              hello@thechungaimna.com
+              hello@thechungaiman.com
             </a>
           </div>
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/5 text-center">
           <p className="text-neutral-600 text-xs tracking-wider">
-            &copy; {new Date().getFullYear()} The Chungaimna. All rights reserved.
+            &copy; {new Date().getFullYear()} The Chungaiman. All rights reserved.
           </p>
         </div>
       </div>

@@ -14,7 +14,7 @@ export default function AboutPage() {
             <div className="relative aspect-[3/4] overflow-hidden bg-neutral-900">
               <Image
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
-                alt="The Chungaimna"
+                alt="The Chungaiman"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -30,7 +30,7 @@ export default function AboutPage() {
                 About
               </p>
               <h1 className="text-4xl md:text-5xl font-light tracking-wide text-white mb-8">
-                The Chungaimna
+                The Chungaiman
               </h1>
               <div className="w-12 h-px bg-white/20 mb-8" />
 

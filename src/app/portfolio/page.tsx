@@ -4,8 +4,8 @@ import SectionHeading from "@/components/SectionHeading";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Portfolio — The Chungaimna",
-  description: "Browse the visual portfolio of The Chungaimna — photography, videography, and creative direction.",
+  title: "Portfolio — The Chungaiman",
+  description: "Browse the visual portfolio of The Chungaiman — photography, videography, and creative direction.",
 };
 
 export default function PortfolioPage() {

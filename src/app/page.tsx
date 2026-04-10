@@ -137,9 +137,9 @@ export default function HomePage() {
               About
             </p>
             <p className="text-xl md:text-2xl font-light leading-relaxed text-neutral-300">
-              I am a visual storyteller and cultural practitioner based in North Nigeria,
-              creating work that bridges tradition and contemporary expression through
-              photography, film, and creative direction.
+              I&apos;m a documentary photographer, filmmaker, curator, and designer based in
+              Northern Nigeria, driven by a passion for creating and sharing meaningful
+              stories that reflect the rich narratives of Arewa.
             </p>
             <Link
               href="/about"

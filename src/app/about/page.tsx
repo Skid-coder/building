@@ -13,7 +13,7 @@ export default function AboutPage() {
           <FadeIn direction="left">
             <div className="relative aspect-[3/4] overflow-hidden bg-neutral-900">
               <Image
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+                src="/images/about-portrait.jpg"
                 alt="The Chungaiman"
                 fill
                 className="object-cover"
@@ -36,26 +36,20 @@ export default function AboutPage() {
 
               <div className="space-y-6 text-neutral-300 leading-relaxed">
                 <p>
-                  I am a visual artist and cultural practitioner based in North Nigeria.
-                  My work spans photography, videography, and creative direction — always
-                  rooted in the stories and traditions of the communities I come from.
+                  I&apos;m truly glad you&apos;re here. I&apos;m a documentary photographer,
+                  filmmaker, curator, and designer, driven by a passion for creating and
+                  sharing meaningful stories. Whether through images, sound, or both, I
+                  work across different media and proudly see myself as a visual or
+                  audio-visual artist.
                 </p>
                 <p>
-                  Growing up in the North, I was surrounded by a rich visual culture: the
-                  textures of hand-woven fabrics, the geometry of Hausa architecture, the
-                  rhythm of festivals and everyday life. These influences shape everything
-                  I create.
-                </p>
-                <p>
-                  I believe in the power of images to preserve culture, challenge
-                  narratives, and connect people across boundaries. Every project I take
-                  on is an opportunity to tell a story that matters — with honesty,
-                  intention, and beauty.
-                </p>
-                <p>
-                  When I&apos;m not behind the camera, you&apos;ll find me exploring local
-                  markets, mentoring young creatives, or working on community-driven art
-                  projects.
+                  Based in Northern Nigeria, I focus on capturing and curating films and
+                  photographs that reflect the rich narratives of Arewa. Alongside my
+                  personal projects, which are close to my heart, I also produce
+                  commissioned documentaries for NGOs and other organisations. Over the
+                  years, I&apos;ve had the opportunity to collaborate with inspiring groups
+                  such as YIAGA AFRICA, GOETHE-INSTITUT, KDSG, KSMC, ARC, ILMIHOUSE,
+                  KAFARTS, GWG, and FWC.
                 </p>
               </div>
 
@@ -64,14 +58,14 @@ export default function AboutPage() {
                   <p className="text-xs tracking-widest uppercase text-neutral-500 mb-2">
                     Based in
                   </p>
-                  <p className="text-white text-sm">North Nigeria</p>
+                  <p className="text-white text-sm">Northern Nigeria</p>
                 </div>
                 <div>
                   <p className="text-xs tracking-widest uppercase text-neutral-500 mb-2">
                     Disciplines
                   </p>
                   <p className="text-white text-sm">
-                    Photography, Videography, Creative Direction
+                    Documentary Photography, Filmmaking, Curation, Design
                   </p>
                 </div>
               </div>
